@@ -1,0 +1,43 @@
+body{
+    background-color: blueviolet;
+  }
+  .nav.ul.li.a{
+    text-align: right;
+  }
+  .navbar-nav{
+    padding: 10px;
+    gap: 25px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+  
+  }
+  .nav-link{
+    color: whitesmoke;
+  }
+  
+  .navbar-brand{
+     color: black;
+     font-size: x-large;
+  }
+  button{
+    background-color: blue;
+    color: white;
+  }
+  h1{
+    padding-top: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+  }
+  p{
+    padding-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightgray;
+    font-size: 21px;
+  }
+  span{
+    color:wheat;
+  }
+  u{
+    color: blue;
+  }
+  
