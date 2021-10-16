@@ -12,7 +12,7 @@
         <h3>Enter OTP</h3>  
         <input class="form-control" type="text" id="email" name="otp" placeholder="OTP"><br>
         <input class="button" type="submit" id="create" name="register" value="Login"><br>
-       
+        
     </div> 
 </body>
 </html>

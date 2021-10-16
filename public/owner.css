@@ -1,0 +1,51 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+.container{
+    max-width: 600px;
+    text-align: center;
+    height: 560px;
+    border: black;
+    margin: auto;
+    background-color: whitesmoke;
+}
+.form-control{
+    margin-bottom: 20px;
+    height: 35px;
+    text-size-adjust: 30px;
+    margin-left: 35px;
+    width: 200px;
+    text-align: center;
+}
+select{
+    height: 40px;
+    width: 210px;
+    margin-left: 35px;
+    margin-left: 55px;
+    text-align: center;
+}
+.acount{
+    height: 35px;
+    width: 200px;
+    text-size-adjust: 15px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.button{
+    height: 30px;
+    width: 80px;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+
+}
+.submit{
+    height: 30px;
+    margin-left: 110px;
+    width: 80px;
+
+}

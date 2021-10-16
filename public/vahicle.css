@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+}
+.container{
+    max-width: 600px;
+    text-align: center;
+    height: 560px;
+    border: black;
+    margin: auto;
+    background-color: red;
+}
+.form-contr1{
+    margin-bottom: 30px;
+    height: 35px;
+    text-size-adjust: 30px;
+    margin-left: 35px;
+    width: 200px;
+    text-align: center;
+}
+.button{
+    height: 30px;
+    width: 80px;
+    margin-left: 20px;
+    
+
+}
+.submit{
+    height: 30px;
+    margin-left: 110px;
+    width: 80px;
+
+}

@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,3 +25,13 @@ Route::get('/login', function () {
 Route::get('/dashboard', function () {
     return view('dashboard');
 });
+
+Route::get('/vahicle', function () {
+    return view('vahicle');
+});
+
+Route::get('/owner', function () {
+    return view('owner');
+});
+
+Route::get('/otp',[UserController::class, 'send_otp']);
